@@ -1,0 +1,211 @@
+feedback,sentiment
+"The professor explains complex algorithms step by step with clear visual diagrams.",Positive
+"The lectures are extremely engaging and interactive every single week.",Positive
+"Great instructor who always takes the time to clear every student's doubts patiently.",Positive
+"The hands-on coding exercises in Python really helped me understand data structures.",Positive
+"The course materials and lecture slides provided on the portal are well organized and easy to follow.",Positive
+"The professor uses real-world industry case studies which make the theoretical concepts very relatable.",Positive
+"Office hours were tremendously helpful for debugging our semester project code.",Positive
+"I really enjoyed the lab sessions because the teaching assistant explained every compiler error thoroughly.",Positive
+"The instructor provides prompt and constructive feedback on all coding assignments.",Positive
+"The syllabus is very modern, relevant, and covers in-demand technologies.",Positive
+"The professor encourages healthy classroom discussions and values student opinions.",Positive
+"Weekly quizzes helped me consistently stay on track with the syllabus instead of cramming before exams.",Positive
+"The textbook recommendations and supplementary research papers were fantastic.",Positive
+"The instructor makes even the driest mathematical proofs enjoyable to learn.",Positive
+"The mid-term exam was challenging yet completely fair, strictly based on classroom teachings.",Positive
+"Excellent guidance was provided during the mini-project development phase.",Positive
+"The teacher is always punctual, energetic, and passionate about computer science education.",Positive
+"I gained tremendous practical confidence in building machine learning models from this course.",Positive
+"Clear grading rubrics were shared before each assignment, which made expectations very clear.",Positive
+"The guest lecture by the industry software engineer was inspiring and informative.",Positive
+"The faculty member treats every student with immense respect and kindness.",Positive
+"The lab manuals have clear step-by-step instructions that made executing experiments seamless.",Positive
+"The professor effectively broke down difficult mathematical concepts into bite-sized explanations.",Positive
+"I learned so much about object-oriented programming thanks to the practical homework problems.",Positive
+"The instructor is very approachable and always responds to emails within a few hours.",Positive
+"Class discussions were lively and intellectually stimulating.",Positive
+"The course structure is well paced, giving students enough time to master fundamentals.",Positive
+"The practical demonstrations helped bridge the gap between theory and real code.",Positive
+"Best computer science teacher I have had in my engineering degree so far.",Positive
+"The assignment deadlines were generous and allowed us to produce high-quality work without stress.",Positive
+"The coding hackathon organized by the faculty was an incredible learning experience.",Positive
+"The professor provides excellent career advice alongside academic lectures.",Positive
+"The feedback given on our lab reports helped us significantly improve our technical writing skills.",Positive
+"The classroom environment was welcoming and encouraged questions from quiet students.",Positive
+"The teacher regularly shared curated GitHub repositories for extra practice.",Positive
+"The course gave me a strong conceptual foundation in operating systems and memory management.",Positive
+"The instructor patiently repeated difficult topics until the entire class understood.",Positive
+"The visual presentations and animation slides made computer architecture concepts simple.",Positive
+"The assignments were creative, engaging, and directly applicable to real software engineering jobs.",Positive
+"The lab assistant was exceptionally helpful during our database connection setup.",Positive
+"Evaluation criteria were completely transparent and unbiased across all students.",Positive
+"The instructor provided great review sessions before the final semester examinations.",Positive
+"I appreciate that the professor always connected classroom theory to open-source software.",Positive
+"The course project allowed us to collaborate effectively and learn teamwork.",Positive
+"Wonderful teaching style that inspires students to pursue further research in AI.",Positive
+"The lecturer demonstrated live debugging during class, which taught us how to resolve syntax bugs.",Positive
+"Course notes were concise, crisp, and extremely useful during exam preparation.",Positive
+"The instructor has deep domain knowledge and shares insightful historical context of computing.",Positive
+"Very supportive faculty who motivated students during stressful mid-term weeks.",Positive
+"The practical experiments were thoroughly aligned with the theoretical lectures.",Positive
+"The professor speaks clearly, uses a microphone properly, and ensures backbenchers can hear.",Positive
+"The group presentation helped improve my technical communication and confidence.",Positive
+"The coding platform used for automated assignment grading was smooth and user friendly.",Positive
+"The teacher created a friendly atmosphere where making mistakes was treated as a learning step.",Positive
+"The textbook exercises were thoughtfully chosen to reinforce core concepts.",Positive
+"The professor provided high quality reference code snippets for all algorithms.",Positive
+"The seminar presentations broadened our exposure to cutting-edge cloud computing topics.",Positive
+"Excellent balance between rigorous mathematical theory and practical software engineering.",Positive
+"The instructor recognized hardworking students and provided genuine encouragement.",Positive
+"The course was thoroughly enjoyable and one of the best highlights of this semester.",Positive
+"This was a very rewarding course with clear explanations and friendly faculty support.",Positive
+"The teaching methodology was brilliant and helped every student learn programming easily.",Positive
+"I loved how interactive the professor made every single lecture session.",Positive
+"Super helpful lab sessions with excellent mentoring from the teaching assistants.",Positive
+"The study guides and mock tests helped me score high marks in the university exam.",Positive
+"Very well organized course with fantastic video lectures and easy to understand notes.",Positive
+"The teacher is truly passionate about teaching and explains every topic thoroughly.",Positive
+"Great learning atmosphere, fair assessment, and very encouraging teacher feedback.",Positive
+"The practical assignments were exciting and gave us real programming confidence.",Positive
+"I am very grateful for the instructor guidance throughout this computer science semester.",Positive
+"The lecturer speaks too fast and refuses to slow down or repeat explanations.",Negative
+"The course content is terribly outdated and still teaches deprecated programming libraries.",Negative
+"The instructor was frequently absent without prior notice, leaving the syllabus incomplete.",Negative
+"Lab computers are extremely slow, have broken keyboards, and lack an internet connection.",Negative
+"The grading was completely arbitrary and marks were deducted without any written feedback.",Negative
+"The professor simply reads verbatim from PowerPoint slides without explaining anything.",Negative
+"Assignment deadlines were unrealistic with three heavy coding submissions due on the same day.",Negative
+"The instructor gets irritated whenever students ask fundamental clarification questions.",Negative
+"The textbook prescribed is obsolete and contains numerous mathematical errors.",Negative
+"Lab assistants were unhelpful and spent the entire practical session browsing their phones.",Negative
+"The midterm exam contained difficult topics that were never discussed in class or syllabus.",Negative
+"The audio in the lecture hall was terrible and students in the back could not hear a word.",Negative
+"The teacher showed clear favoritism towards a few students while ignoring the rest.",Negative
+"The course lacked practical hands-on examples and focused entirely on rote memorization.",Negative
+"Feedback on assignments was returned weeks late, long after the final exam was already over.",Negative
+"The syllabus is overloaded with unnecessary theory that has zero relevance to modern tech jobs.",Negative
+"The instructor dismissed student doubts rudely and made students feel embarrassed to ask.",Negative
+"No sample question papers or grading rubrics were provided before the semester finals.",Negative
+"The practical software tools required for the lab were never installed on the campus machines.",Negative
+"Lectures were extremely boring, monotonous, and lacked any interactive student participation.",Negative
+"The instructor gave zero partial credit for working code that had minor formatting differences.",Negative
+"The project guidelines were hopelessly vague and changed multiple times midway through the semester.",Negative
+"The teacher arrived twenty minutes late to almost every scheduled class.",Negative
+"The class was rushed towards the end of the term to hurriedly finish pending chapters.",Negative
+"The course felt like a total waste of tuition fees and offered no real learning value.",Negative
+"The automated grading test cases were buggy and falsely marked correct submissions as failed.",Negative
+"The professor refused to hold office hours or reply to important academic queries over email.",Negative
+"There was a severe disconnect between what was taught in class and what appeared on the exam paper.",Negative
+"The laboratory manuals were full of typos, incorrect command lines, and missing dependencies.",Negative
+"The instructor penalizes different coding styles even when the final output matches requirements.",Negative
+"Group project evaluations were unfair because non-contributing team members got the same score.",Negative
+"The pace of the class was completely erratic, jumping between trivial and impossible concepts.",Negative
+"The classroom projector was constantly malfunctioning and blurred the code on the screen.",Negative
+"The teacher made condescending remarks when students struggled with basic recursion.",Negative
+"Exams tested trivial memorization of syntax instead of testing logical problem-solving skills.",Negative
+"The recommended reference books are out of print and unavailable in the campus library.",Negative
+"The instructor read directly from an online blog without understanding the topic themselves.",Negative
+"Zero guidance was given for the final year capstone project requirements.",Negative
+"The grading system was harsh, demoralizing, and failed to reward genuine student effort.",Negative
+"The classroom air conditioning was broken throughout the summer semester, making it hard to concentrate.",Negative
+"The practical experiments were pointless copy-paste exercises from old senior student files.",Negative
+"The teacher did not follow the official syllabus guidelines issued by the academic committee.",Negative
+"The midterm evaluation took over a month to be declared, causing immense student anxiety.",Negative
+"The instructor constantly went off-topic on personal anecdotes instead of covering the syllabus.",Negative
+"The lab was overcrowded with three students forced to share a single malfunctioning computer.",Negative
+"The professor ridiculed a student for pointing out an error on the blackboard.",Negative
+"The workload for a two-credit course was disproportionately heavy compared to core subjects.",Negative
+"The online meeting link for virtual classes was never posted on time, leading to missed sessions.",Negative
+"The exam questions were poorly worded, ambiguous, and led to mass confusion in the exam hall.",Negative
+"The instructor discouraged collaborative peer learning and threatened students with penalties.",Negative
+"The course materials were full of broken links and outdated PDF documents from ten years ago.",Negative
+"The teaching assistant was unqualified and could not answer basic debugging questions.",Negative
+"The teacher graded our presentations subjectively without following any standardized metric.",Negative
+"The homework problems were copied straight from competitive programming sites without explanations.",Negative
+"The class felt disorganized, chaotic, and lacked a structured learning pathway from day one.",Negative
+"The course prerequisites were never clearly stated, leaving beginners hopelessly lost.",Negative
+"The instructor failed to provide any review or solutions for the mistakes made in the midterm.",Negative
+"The laboratory software licenses had expired and the department did not renew them.",Negative
+"The class was held in an overcrowded room with inadequate seating and poor ventilation.",Negative
+"The entire semester felt rushed, stressful, and poorly managed by the departmental faculty.",Negative
+"Terrible teaching quality with no practical examples and extremely unhelpful responses to doubts.",Negative
+"The professor was rude and dismissed student questions in front of the whole class.",Negative
+"Worst lecture experience of my college journey with completely unfair grading and zero feedback.",Negative
+"The lab instructor did not know how to run the experiments and gave incorrect answers.",Negative
+"The exam was unnecessarily tough and bore no relation to what was taught in class.",Negative
+"Very disappointing course with confusing lecture slides and disorganized schedule.",Negative
+"The teacher arrived late and rushed through important topics without explaining anything.",Negative
+"Zero effort was put into teaching or answering students during laboratory hours.",Negative
+"Harsh marking scheme with deductions for non-existent errors on the assignment code.",Negative
+"The course was frustrating, badly planned, and offered minimal learning experience.",Negative
+"The class meets three times a week on Monday, Wednesday, and Friday.",Neutral
+"The course covers basic data structures and algorithms as prescribed by the university syllabus.",Neutral
+"The textbook was followed closely from chapter one to chapter seven throughout the semester.",Neutral
+"Some topics were easy to understand while other topics were moderate in difficulty.",Neutral
+"The midterm exam consisted of twenty multiple-choice questions and four descriptive problems.",Neutral
+"The lab manual is available on the student intranet portal in PDF format.",Neutral
+"The instructor covered the standard topics outlined in the official departmental syllabus.",Neutral
+"Lectures were conducted in hybrid mode with both in-person attendance and recorded video streams.",Neutral
+"The syllabus was completed within the scheduled fifteen-week semester timeline.",Neutral
+"Attendance was recorded at the beginning of each lecture using the biometric system.",Neutral
+"The semester project was submitted as a group assignment of four students.",Neutral
+"Lecture slides were uploaded to Google Classroom by the teaching assistant after every class.",Neutral
+"The course is an elective subject open to third-semester computer science students.",Neutral
+"Weekly quizzes were conducted online on the university LMS every Saturday evening.",Neutral
+"The prerequisite for this subject was introductory programming in C and discrete mathematics.",Neutral
+"The classroom has standard bench seating, a whiteboard, and a ceiling-mounted projector.",Neutral
+"Classes started at 9:00 AM and ended at 4:30 PM according to the departmental timetable.",Neutral
+"The syllabus adheres to the standard curriculum specified by the technical education board.",Neutral
+"Anonymous student feedback forms were collected at the end of the fourteenth week.",Neutral
+"The course included two internal assessments and one end-semester university examination.",Neutral
+"The teacher held office hours on Tuesday and Thursday afternoons between 2 PM and 4 PM.",Neutral
+"Semester results were published on the university examination portal two weeks later.",Neutral
+"Assignments carried thirty percent weightage in the continuous internal evaluation scheme.",Neutral
+"The lab session was scheduled for two hours every Tuesday morning.",Neutral
+"Prescribed reference books are kept on reserve in the central library reference section.",Neutral
+"The course followed a continuous evaluation model with quizzes, assignments, and presentations.",Neutral
+"The question paper followed the same structural pattern as the previous five years.",Neutral
+"Students submitted their project documentation in spiral-bound printed hard copies.",Neutral
+"The professor followed the order of chapters given in the course handout.",Neutral
+"Course notices and timetable updates are posted on the departmental notice board.",Neutral
+"A two-hour workshop on Git commands was conducted during the second week of the semester.",Neutral
+"The lab technician was present in the computing facility during practical lab hours.",Neutral
+"Lecture notes were shared in digital PDF format via the university email group.",Neutral
+"Students were divided into three batches based on roll numbers for laboratory sessions.",Neutral
+"The internal assessment marks were displayed on the bulletin board for student verification.",Neutral
+"The syllabus is divided into five uniform units of eight lecture hours each.",Neutral
+"The guest seminar was held in the departmental seminar hall on the second floor.",Neutral
+"Project topics were selected from a predefined list provided by the department committee.",Neutral
+"The presentation slides contained code snippets, architecture diagrams, and tables.",Neutral
+"The total duration of the course was forty-five lecture hours across the semester.",Neutral
+"The university requires a minimum of seventy-five percent attendance to sit for final exams.",Neutral
+"The course included both theoretical lectures and practical hands-on laboratory sessions.",Neutral
+"The examination was conducted under the supervision of external invigilators.",Neutral
+"Students were instructed to write answers in blue or black ballpoint pen on the answer booklet.",Neutral
+"The programming assignments were submitted using an online file upload form.",Neutral
+"The prescribed textbook is authored by Tanenbaum and published by Pearson.",Neutral
+"The grading scale uses standard letter grades from A to F based on cumulative scores.",Neutral
+"The course syllabus was revised two academic years ago by the board of studies.",Neutral
+"The classroom has four ceiling fans and two rows of fluorescent light fixtures.",Neutral
+"The laboratory operates on standard Linux and Windows dual-boot desktop computers.",Neutral
+"Students were required to maintain a written laboratory record notebook for viva verification.",Neutral
+"The academic calendar specified eighteen working weeks including mid-semester breaks.",Neutral
+"The first unit covered introductory concepts, history, and basic terminology.",Neutral
+"The lab experiments were numbered one through ten in the laboratory syllabus manual.",Neutral
+"Feedback was collected through an online survey with multiple choice rating scales.",Neutral
+"The course coordinator sent weekly reminder emails regarding upcoming assignment deadlines.",Neutral
+"The hall ticket was required for entry into the end-semester examination center.",Neutral
+"The final grade was calculated by adding internal assessment marks to external exam marks.",Neutral
+"The elective course had an enrollment of sixty students from two different sections.",Neutral
+"The semester concluded with a group project viva conducted by an external examiner.",Neutral
+"The lecture took place in room 302 of the computer engineering building.",Neutral
+"Students submitted weekly programming exercises via the college portal.",Neutral
+"The course timetable was updated at the beginning of the academic semester.",Neutral
+"There were three internal assessment tests scheduled before the final semester exam.",Neutral
+"The department provided standard syllabus printouts during orientation week.",Neutral
+"Assignments were due on Sunday midnight through the college submission link.",Neutral
+"The course covered both theoretical modules and practical laboratory hours.",Neutral
+"The seminar presentations were allotted ten minutes per student group.",Neutral
+"Grades were uploaded to the university student information system at semester end.",Neutral
+"The lab experiments followed the order given in the department curriculum manual.",Neutral

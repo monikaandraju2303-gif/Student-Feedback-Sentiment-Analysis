@@ -1,0 +1,84 @@
+{
+  "model_name": "TF-IDF + Logistic Regression",
+  "training_timestamp": "2026-10-25 19:01:12",
+  "random_state": 42,
+  "test_size_ratio": 0.2,
+  "dataset_stats": {
+    "total_samples": 210,
+    "train_samples": 168,
+    "test_samples": 42,
+    "class_distribution": {
+      "Positive": 70,
+      "Negative": 70,
+      "Neutral": 70
+    }
+  },
+  "evaluation": {
+    "accuracy": 0.6429,
+    "classes": [
+      "Negative",
+      "Neutral",
+      "Positive"
+    ],
+    "confusion_matrix": [
+      [
+        7,
+        3,
+        4
+      ],
+      [
+        1,
+        10,
+        3
+      ],
+      [
+        2,
+        2,
+        10
+      ]
+    ],
+    "classification_report": {
+      "Negative": {
+        "precision": 0.7,
+        "recall": 0.5,
+        "f1-score": 0.5833333333333334,
+        "support": 14.0
+      },
+      "Neutral": {
+        "precision": 0.6666666666666666,
+        "recall": 0.7142857142857143,
+        "f1-score": 0.6896551724137931,
+        "support": 14.0
+      },
+      "Positive": {
+        "precision": 0.5882352941176471,
+        "recall": 0.7142857142857143,
+        "f1-score": 0.6451612903225806,
+        "support": 14.0
+      },
+      "accuracy": 0.6428571428571429,
+      "macro avg": {
+        "precision": 0.6516339869281046,
+        "recall": 0.6428571428571429,
+        "f1-score": 0.6393832653565691,
+        "support": 42.0
+      },
+      "weighted avg": {
+        "precision": 0.6516339869281046,
+        "recall": 0.6428571428571429,
+        "f1-score": 0.639383265356569,
+        "support": 42.0
+      }
+    }
+  },
+  "parameters": {
+    "tfidf_ngram_range": [
+      1,
+      2
+    ],
+    "tfidf_sublinear_tf": true,
+    "classifier_type": "LogisticRegression",
+    "classifier_c": 1.0,
+    "classifier_class_weight": "balanced"
+  }
+}
